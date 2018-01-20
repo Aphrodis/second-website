@@ -1,0 +1,11 @@
+.wrap{
+	width: 600px;
+	margin: auto;
+	background: yellow;
+}
+.content{
+	background: red;
+}
+.aside{
+	background: red;
+}
